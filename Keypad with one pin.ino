@@ -1,3 +1,6 @@
+//This video explain the range of each button
+//https://youtu.be/G14tREsVqz0?si=_PgHpnTXE73tvoWe
+
 #define btn A1
 int value = 0;
 
